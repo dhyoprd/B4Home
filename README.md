@@ -1,1 +1,2 @@
-"# B4Home" 
+"# B4Home"
+![Implementation](".img/architecture_model.jpg")
