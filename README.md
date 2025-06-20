@@ -9,6 +9,7 @@ ML : https://github.com/MadeAdiSurya/B4Home/tree/ML---models
 
 
 Pitch : https://www.youtube.com/watch?v=m7s7fcv62ik&ab_channel=FinaZahara
+
 Feature 1
 Use Case: Predict a house price
 
